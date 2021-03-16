@@ -1,0 +1,36 @@
+p{
+
+    font-size: 20px;
+    familia de fuentes: 'Indie Flower', cursiva;
+    color:#FF3333;
+
+}
+
+.parrafoMain2{
+    font-size: 30px;
+    color: blue;
+}
+
+header{
+
+    
+    color:black;
+    background-image: url(img/ceiba.jpg);
+    
+
+}
+
+main{
+
+   background-color:whitesmoke;
+   
+
+
+}
+
+footer{
+
+    background-color: darkslategray;
+    color: snow;
+
+}

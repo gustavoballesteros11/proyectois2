@@ -1,0 +1,35 @@
+p{
+
+    font-size: 20px;
+    familia de fuentes: 'Indie Flower', cursiva;
+    color:#FF3333;
+
+}
+
+
+parrafoMain{
+    font-size: 30px;
+    color: blue;
+}
+
+header{
+
+    
+    color: red;
+    
+
+}
+
+main{
+
+   background-color: blue;
+
+
+}
+
+footer{
+
+    background-color: darkslategray;
+    color: beige;
+
+}
